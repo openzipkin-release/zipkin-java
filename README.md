@@ -12,3 +12,7 @@ $ ./mvnw clean install
 $ docker-compose build
 $ docker-compose up
 ```
+
+## Release
+#### Snapshots
+Snapshots are released to [Sonatype](https://oss.sonatype.org/#nexus-search;quick~zipkin-java) after merges to master which are not pull requests.
